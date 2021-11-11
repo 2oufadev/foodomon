@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "154783613576",
+    "project_id": "foodomon-6a0d9",
+    "storage_bucket": "foodomon-6a0d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154783613576:android:5302feb2533811f75dd53d",
+        "android_client_info": {
+          "package_name": "com.allrounder.foodomon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154783613576-b1rihn4bngf6e1c5i7bgpb9gkcis156d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allrounder.foodomon",
+            "certificate_hash": "53e818d4bdd500d375149de09d97ba800cfa8010"
+          }
+        },
+        {
+          "client_id": "154783613576-hlmofnrhlmvbqvhd1fpo3f8470mo9jnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allrounder.foodomon",
+            "certificate_hash": "8675be9d748dbdcaab717c5f0a5706a51a561699"
+          }
+        },
+        {
+          "client_id": "154783613576-hg1808botojt3csd69ha6udocke3u61e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8wf1YQwgJ1fd-mlvfOmGrM_eRX4SsgVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154783613576-hg1808botojt3csd69ha6udocke3u61e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154783613576-jf32esqsdpja4kjqhfl0mdbo1nlafeir.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allrounder.foodomon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
